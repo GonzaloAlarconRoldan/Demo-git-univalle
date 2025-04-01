@@ -23,7 +23,7 @@ body:
     id: type
     attributes:
       label: "Tipo de Ticket"
-      description: "Selecciona el tipo de ticket."
+      description: "Selecciona el tipo de ticket"
       options:
         - Historia de Usuario
         - Tarea
